@@ -1,7 +1,15 @@
 body{
-background-color: blueviolet;
+background-color: rgb(136, 61, 206);
+
+color: white
 
 
+
+}
+
+header{
+background-color: rgb(109, 28, 163);
+height: 35px;
 
 
 
