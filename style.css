@@ -10,7 +10,17 @@ color: white
 header{
 background-color: rgb(109, 28, 163);
 height: 35px;
+windth: 100%;
+margin-left: -20px;
+margin-right: -20px;
 
 
+}
+
+header h3{
+ padding-left: 15px;
+ color:rgb(245, 243, 247);
+ text-align: center;
+ font-size: 30px;
 
 }
